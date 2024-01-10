@@ -5,7 +5,7 @@
 
 ![UML CLASS FINAL](https://github.com/vishwaikon/Wildlife-Conservation-Management-System/assets/75526380/6501125b-ccd0-4310-bc92-71ae4973d5ba)
 
-## Screenshots
+## UI Demonstration
 
 ![dashboard1](https://github.com/vishwaikon/Wildlife-Conservation-Management-System/assets/75526380/e84a510a-9780-4d1d-8519-dfc51283b572)
 
